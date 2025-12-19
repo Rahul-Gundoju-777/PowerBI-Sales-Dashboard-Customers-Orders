@@ -57,7 +57,7 @@ The dashboard contains the following visuals:
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Screenshots/Sales_dashboard.png)
+![Sales Dashboard](Screenshots/Sales_dashboard-1.png)
 
 ---
 
