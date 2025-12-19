@@ -99,7 +99,7 @@ PowerBI-Sales-Dashboard-Customers-Orders/
 Hi there! I'm Rahul Gundoju  
  - 🔍 Passionate about **Data Analysis, Business Insights, and Visualization**  
  - 🎯 Actively seeking **Data Analyst opportunities**  
- - 🛠  Skilled in **SQL, Python (Pandas/Numpy), Excel, Power BI**  
+ - 🛠  Skilled in **SQL, Excel, Python (Pandas/Numpy), Power BI**  
  - 🎓 Artificial Intelligence & Data Science Graduate
  - 🔗 LinkedIn: www.linkedin.com/in/rahul-gundoju
  - 📧 Email: rahulgundoju777@gmail.com
