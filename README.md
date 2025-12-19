@@ -57,7 +57,7 @@ The dashboard contains the following visuals:
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Screenshots/sales_dashboard.png)
+![Sales Dashboard](Screenshots/Sales_dashboard.png)
 
 ---
 
@@ -78,7 +78,29 @@ The dashboard contains the following visuals:
 
 ---
 
-## 🔗 Author
-**Rahul Gundoju**  
-Aspiring Data Analyst  
-📍 Hyderabad, India  
+### 📁 Repository Structure
+
+```text
+PowerBI-Sales-Dashboard-Customers-Orders/
+│
+├── Datasets/                           # Datasets used for the project
+│
+├── Screenshots/                        # PNG files of the dashboard
+│   ├── Sales_dashboard-1.png           # PNG file - 1
+│   ├── Sales_dashboard-2.png           # PNG file - 2
+│
+├── Sales_Dashboard.pbix                # PBIX file of the sales dashboard
+│
+├── README.md                           # Project overview
+├── LICENSE                             # License information
+```
+
+### 👩‍💻 About Me : 
+Hi there! I'm Rahul Gundoju  
+ - 🔍 Passionate about **Data Analysis, Business Insights, and Visualization**  
+ - 🎯 Actively seeking **Data Analyst opportunities**  
+ - 🛠  Skilled in **SQL, Python (Pandas/Numpy), Excel, Power BI**  
+ - 🎓 Artificial Intelligence & Data Science Graduate
+ - 🔗 LinkedIn: www.linkedin.com/in/rahul-gundoju
+ - 📧 Email: rahulgundoju777@gmail.com
+ - 📍 Hyderabad, India  
